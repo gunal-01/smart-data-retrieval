@@ -95,7 +95,7 @@ This project integrates Retrieval-Augmented Generation (RAG) with Zoho Catalyst 
   - Upload a CSV:
     | ID   | Name         | Position           | Salary   |
     |------|--------------|--------------------|----------|
-    | 8901 | Alice Brown  | Software Engineer | $120,000 |
+    | 8901 | Alice Brown  | Software Engineer  | $120,000 |
 
 ### **Automated Retrieval and Storage**
 - Schedule daily retrieval of sales reports from the database.
